@@ -1,4 +1,4 @@
-import {Box, Grid, Link, List, ListItem, ListItemIcon, Typography} from "@mui/material";
+import { Grid, List, ListItem, Typography} from "@mui/material";
 import data from '../cv_details.json'
 
 export function Skills(
@@ -15,7 +15,7 @@ export function Skills(
                                 return (
                                     <Grid container justifyContent={"center"}>
                                         <Grid item>
-                                            <img width={50} src={data.known_languages_images[i]}/>
+                                            <img width={50} src={data.known_languages_images[i]} alt={""}/>
                                         </Grid>
                                         <Grid item>
                                             <ListItem>{language}</ListItem>
@@ -36,7 +36,7 @@ export function Skills(
                                 return (
                                     <Grid container justifyContent={"center"}>
                                         <Grid item>
-                                            <img width={50} src={data.known_databases_images[i]}/>
+                                            <img width={50} src={data.known_databases_images[i]} alt={""}/>
                                         </Grid>
                                         <Grid item>
                                             <ListItem>{language}</ListItem>
@@ -57,7 +57,7 @@ export function Skills(
                                 return (
                                     <Grid container justifyContent={"center"}>
                                         <Grid item>
-                                            <img width={50} src={data.known_cloud_images[i]}/>
+                                            <img width={50} src={data.known_cloud_images[i]} alt={""}/>
                                         </Grid>
                                         <Grid item>
                                             <ListItem>{language}</ListItem>

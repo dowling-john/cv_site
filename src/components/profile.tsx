@@ -1,6 +1,5 @@
 import {Box, Typography} from "@mui/material";
 import data from "../cv_details.json"
-import {ContactDetails} from "./contact_details";
 
 
 export function Profile() {

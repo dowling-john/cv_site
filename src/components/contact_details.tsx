@@ -1,4 +1,4 @@
-import {Box, Grid, Link, Typography} from "@mui/material";
+import {Grid, Link, Typography} from "@mui/material";
 
 
 export function ContactDetails(
