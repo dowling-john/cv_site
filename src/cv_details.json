@@ -1,0 +1,111 @@
+{
+  "contact_details": {
+    "email_address": "john.dowling@blackcarbon.co.uk",
+    "telephone_number": "07885580445",
+    "github": "https://github.com/dowling-john"
+  },
+  "profile": {
+    "personal_statement": "I have been working in the IT field for over ten years with eight of them in a programmatic role of some description. I am a skilled backend developer utilizing Python and Golang to build robust API and UI implementations. I have experience with network programming having to talk to disparate systems using either rest or SSH communications channels.\n\n                                    I have skill in the major Python web frameworks namely Django and Django Rest Framework. I also have experience in the Gingonic Golang framework for building APIs and low level microservices\n\n                                    I have experience in design and have built out Rest APIs based on requirements gathering, creating stories for other developers to follow. I am an avid follower of TDD and BDD concepts and have done the Clean Coders course and believe in the principles set out in SOLID\n\n                                    I work well in a team and am well versed in Agile principles I have used Jira to manage workload and tasks.\n\n                                    I have also worked with CI/CD platforms including travis and Jenkins to automate testing and deployment of code to both staging and production environments."
+  },
+  "work_history": [
+    {
+      "company_name": "Luna-Protocol (Motive Create)",
+      "start_date": "Oct 2022",
+      "end_date": "Mar 2024",
+      "job_title": "Backend Python/Golang Developer",
+      "job_description": "The project was to build a financial application lending to the American home improvement market. This included a Golang backend API, and a Django based administration platform. \n\nMy Day-to-Day job was to work from a queue of Tickets to add features and troubleshoot bugs within both the Golang backend application and the Django based admin portal.\n\nThe Golang application was built on top of the Fibre framework and had services to talk to individual parts of the system, the system also included a queue-based system in Azure to create async jobs.\n",
+      "languages": [
+        "Golang", "Python", "Javascript"
+      ],
+      "technologies": [
+        "Django",
+        "MsSql"
+      ]
+    },
+    {
+      "company_name": "The Network Contagion Research Institute (NCRI)",
+      "start_date": "Feb 2022",
+      "end_date": "Oct 2022 ",
+      "job_title": "Backend Python Developer",
+      "job_description": "The contract was to build an API and application to scrape the TikTok platform for a machine learning platform to analyse and index for searching. The contract involved using chrome and postman to backwards engineer the TickTok backend calls and use these calls to scrape the data in each TickTok and save them to a database whilst also scanning and spidering for new TikTok’s. \n\nMy day-to-day job involved designing a collection of functions that could interact with TickTok’s backend, this at the time needed to be around a search term that was given by a user, the application would then spider through the returned posts looking for users that it was not familiar with and spidering through their TickTok’s and collecting data on each TickTok and recording this in the postgres database for latter processing.\n",
+      "languages": [
+        "Python"
+      ],
+      "technologies": [
+        "Django",
+        "Postgres"
+      ]
+    },
+    {
+      "company_name": "Elephant Healthcare",
+      "start_date": "Aug 2021",
+      "end_date": "Feb 2022",
+      "job_title": "Full Stack Django Developer",
+      "job_description": "Building and supporting complex reporting application to help clinics in Africa to manage and better understand medical requirements of patients.",
+      "languages": [
+        "Golang", "Python", "Javascript"
+      ],
+      "technologies": [
+        "Django",
+        "MsSql"
+      ]
+    },
+    {
+      "company_name": "University of Oxford",
+      "start_date": "Apr 2021",
+      "end_date": "Aug 2021",
+      "job_title": "Full Stack Django Developer",
+      "job_description": "Working with the Medical sciences division to design and build a covid 19 tracking system. The main task of the system was to track outcomes of covid 19 PCR and LFD tests, whilst also supporting the university in distributing LFD test kits to staff and students. The system was also adapted to serve university doctors consult with people providing positive tests to keep track of their health and supporting the university community with medical advice.",
+      "languages": [
+        "Golang", "Python", "Javascript"
+      ],
+      "technologies": [
+        "Django",
+        "MsSql"
+      ]
+    },
+    {
+      "company_name": "Rackspace Hosting Technology ",
+      "start_date": "2011",
+      "end_date": "2021",
+      "job_title": "Backend Python/Golang Developer",
+      "job_description": "Working as a backend python developer to further customer facing applications and API’s my main role was to design new tools and API’s to be customer facing to allow customers to automate and integrate all their systems either programmatically or through the use of a web UI.\n\nI was required to work in both Python and Golang programming languages and use frameworks like Django and Gingonic (Gin). These APIs also had to talk to lower-level devices on either REST APIs or Ssh communications.\n\nThe Team worked in an Agile fashion using Jira to create and work on tasks, whilst we had the lead on our own projects we would have to engage with other developers and teams to integrate and develop other systems.\n\nI was also responsible for the onboarding and training of Junior programmers; I was also involved in a program that took network engineers and taught Python and Golang to them to help automate their workloads.\n",
+      "languages": [
+        "Golang", "Python", "Javascript"
+      ],
+      "technologies": [
+        "Django",
+        "MsSql"
+      ]
+    }
+  ],
+  "known_languages": [
+    "GoLang",
+    "Python",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "known_languages_images": [
+    "https://www.svgrepo.com/show/373635/go-gopher.svg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Python_logo_51.svg/1200px-Python_logo_51.svg.png",
+    "https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png",
+    "https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png"
+  ],
+  "known_databases": [
+    "Postgres",
+    "MsSql",
+    "MongoDb"
+  ],
+  "known_databases_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
+    "https://dq3yfnoirppqu.cloudfront.net/dex-assets/3rd-party/mssql-connector-by-axtesys/MSSQL.png",
+    "https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"
+  ],
+  "known_cloud": [
+    "Azure"
+  ],
+  "known_cloud_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"
+  ]
+
+}
