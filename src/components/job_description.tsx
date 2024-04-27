@@ -14,6 +14,7 @@ export function JobDescription(
     return (
         <>
             <Grid container justifyContent={"center"} sx={{margin: "2rem"}}>
+
                 <Grid item xs={12} md={12} lg={12}>
                     <Typography variant={'h6'} textAlign={"center"}>
                         {company_name}
